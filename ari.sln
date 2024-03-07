@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ari", "ari\ari.csproj", "{C8FF6C95-2433-4E8A-8659-E4C8F6B5C214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8FF6C95-2433-4E8A-8659-E4C8F6B5C214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FF6C95-2433-4E8A-8659-E4C8F6B5C214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FF6C95-2433-4E8A-8659-E4C8F6B5C214}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C8FF6C95-2433-4E8A-8659-E4C8F6B5C214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FF6C95-2433-4E8A-8659-E4C8F6B5C214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8FF6C95-2433-4E8A-8659-E4C8F6B5C214}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96F849BF-1E24-487D-B8E9-909771BAE55B}
+	EndGlobalSection
+EndGlobal
